@@ -1,1 +1,1 @@
-# LegalAIAssistant
+# Legal AI Assistant
